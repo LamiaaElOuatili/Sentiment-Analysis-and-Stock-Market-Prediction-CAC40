@@ -1,0 +1,12 @@
+pandas
+snscrape
+requests
+python-dotenv
+vaderSentiment
+transformers
+torch
+
+fastapi
+uvicorn
+yfinance
+pandas
