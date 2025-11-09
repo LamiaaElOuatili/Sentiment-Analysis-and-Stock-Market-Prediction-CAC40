@@ -1,0 +1,1510 @@
+[
+  {
+    "source": "news_google",
+    "company": "LVMH",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-10",
+        "AvgSentiment": 0.0
+      },
+      {
+        "Date": "2025-10-12",
+        "AvgSentiment": -0.06596666666666667
+      },
+      {
+        "Date": "2025-10-13",
+        "AvgSentiment": 0.7591
+      },
+      {
+        "Date": "2025-10-14",
+        "AvgSentiment": 0.5628399999999999
+      },
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": 0.24785625
+      },
+      {
+        "Date": "2025-10-16",
+        "AvgSentiment": 0.2613857142857143
+      }
+    ]
+  },
+  {
+    "source": "news",
+    "company": "TotalEnergies",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-03",
+        "AvgSentiment": 0.3333333333333333
+      },
+      {
+        "Date": "2025-10-04",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-05",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-06",
+        "AvgSentiment": 0.6
+      },
+      {
+        "Date": "2025-10-07",
+        "AvgSentiment": -0.5
+      },
+      {
+        "Date": "2025-10-08",
+        "AvgSentiment": 0.9
+      },
+      {
+        "Date": "2025-10-09",
+        "AvgSentiment": 0.5555555555555556
+      },
+      {
+        "Date": "2025-10-10",
+        "AvgSentiment": -0.14285714285714285
+      },
+      {
+        "Date": "2025-10-13",
+        "AvgSentiment": 0.6363636363636364
+      },
+      {
+        "Date": "2025-10-14",
+        "AvgSentiment": -0.1
+      },
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": -0.15384615384615385
+      }
+    ]
+  },
+  {
+    "source": "news_google",
+    "company": "TotalEnergies",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-10",
+        "AvgSentiment": 0.0
+      },
+      {
+        "Date": "2025-10-12",
+        "AvgSentiment": 0.32985
+      },
+      {
+        "Date": "2025-10-13",
+        "AvgSentiment": 0.053075
+      },
+      {
+        "Date": "2025-10-14",
+        "AvgSentiment": 0.0
+      },
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": 0.0843
+      },
+      {
+        "Date": "2025-10-16",
+        "AvgSentiment": 0.13695
+      }
+    ]
+  },
+  {
+    "source": "news",
+    "company": "Sanofi",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-01",
+        "AvgSentiment": 0.7272727272727273
+      },
+      {
+        "Date": "2025-10-02",
+        "AvgSentiment": 0.4
+      },
+      {
+        "Date": "2025-10-03",
+        "AvgSentiment": 0.0
+      },
+      {
+        "Date": "2025-10-04",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-05",
+        "AvgSentiment": 0.5
+      },
+      {
+        "Date": "2025-10-06",
+        "AvgSentiment": 0.5555555555555556
+      },
+      {
+        "Date": "2025-10-07",
+        "AvgSentiment": 0.38461538461538464
+      },
+      {
+        "Date": "2025-10-08",
+        "AvgSentiment": 0.21428571428571427
+      },
+      {
+        "Date": "2025-10-09",
+        "AvgSentiment": 0.2222222222222222
+      },
+      {
+        "Date": "2025-10-10",
+        "AvgSentiment": 0.4
+      },
+      {
+        "Date": "2025-10-12",
+        "AvgSentiment": 0.0
+      },
+      {
+        "Date": "2025-10-13",
+        "AvgSentiment": 0.5714285714285714
+      },
+      {
+        "Date": "2025-10-14",
+        "AvgSentiment": 0.16666666666666666
+      },
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": 0.6
+      }
+    ]
+  },
+  {
+    "source": "news_google",
+    "company": "Sanofi",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-10",
+        "AvgSentiment": 0.5574
+      },
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": 0.0
+      },
+      {
+        "Date": "2025-10-16",
+        "AvgSentiment": 0.30663333333333337
+      }
+    ]
+  },
+  {
+    "source": "news",
+    "company": "Airbus",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-09",
+        "AvgSentiment": 0.45454545454545453
+      },
+      {
+        "Date": "2025-10-10",
+        "AvgSentiment": 0.1875
+      },
+      {
+        "Date": "2025-10-11",
+        "AvgSentiment": 0.6
+      },
+      {
+        "Date": "2025-10-12",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-13",
+        "AvgSentiment": 0.047619047619047616
+      },
+      {
+        "Date": "2025-10-14",
+        "AvgSentiment": 0.47058823529411764
+      },
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": 0.06666666666666667
+      }
+    ]
+  },
+  {
+    "source": "news_google",
+    "company": "Airbus",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-13",
+        "AvgSentiment": 0.1591
+      },
+      {
+        "Date": "2025-10-14",
+        "AvgSentiment": 0.028425000000000006
+      },
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": 0.0
+      },
+      {
+        "Date": "2025-10-16",
+        "AvgSentiment": 0.37025
+      }
+    ]
+  },
+  {
+    "source": "news",
+    "company": "Schneider Electric",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": 0.5268817204301075
+      }
+    ]
+  },
+  {
+    "source": "news_google",
+    "company": "Schneider Electric",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-12",
+        "AvgSentiment": 0.5267
+      }
+    ]
+  },
+  {
+    "source": "reddit",
+    "company": "Apple",
+    "daily_sentiment": [
+      {
+        "Date": "2025-09-18",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-19",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-20",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-22",
+        "AvgSentiment": 0.6666666666666666
+      },
+      {
+        "Date": "2025-09-23",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-24",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-25",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-26",
+        "AvgSentiment": -0.3333333333333333
+      },
+      {
+        "Date": "2025-09-27",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-29",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-01",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-02",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-04",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-06",
+        "AvgSentiment": -1.0
+      },
+      {
+        "Date": "2025-10-07",
+        "AvgSentiment": -1.0
+      },
+      {
+        "Date": "2025-10-08",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-09",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-10",
+        "AvgSentiment": 0.0
+      },
+      {
+        "Date": "2025-10-11",
+        "AvgSentiment": -1.0
+      },
+      {
+        "Date": "2025-10-13",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-14",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": 0.3333333333333333
+      },
+      {
+        "Date": "2025-10-16",
+        "AvgSentiment": 1.0
+      }
+    ]
+  },
+  {
+    "source": "news",
+    "company": "Apple",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": 0.5656565656565656
+      }
+    ]
+  },
+  {
+    "source": "news_google",
+    "company": "Apple",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-10",
+        "AvgSentiment": -0.5423
+      },
+      {
+        "Date": "2025-10-12",
+        "AvgSentiment": -0.503525
+      },
+      {
+        "Date": "2025-10-13",
+        "AvgSentiment": -0.3568166666666666
+      },
+      {
+        "Date": "2025-10-14",
+        "AvgSentiment": -0.46299999999999997
+      },
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": -0.3686666666666667
+      },
+      {
+        "Date": "2025-10-16",
+        "AvgSentiment": -0.379562962962963
+      }
+    ]
+  },
+  {
+    "source": "reddit",
+    "company": "Microsoft",
+    "daily_sentiment": [
+      {
+        "Date": "2025-09-18",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-19",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-20",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-22",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-23",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-24",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-25",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-26",
+        "AvgSentiment": 0.0
+      },
+      {
+        "Date": "2025-09-28",
+        "AvgSentiment": 0.0
+      },
+      {
+        "Date": "2025-09-29",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-30",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-01",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-02",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-04",
+        "AvgSentiment": 0.5
+      },
+      {
+        "Date": "2025-10-05",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-06",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-07",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-08",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-09",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-14",
+        "AvgSentiment": -1.0
+      },
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": 0.6
+      },
+      {
+        "Date": "2025-10-16",
+        "AvgSentiment": 1.0
+      }
+    ]
+  },
+  {
+    "source": "news",
+    "company": "Microsoft",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": 0.5306122448979592
+      }
+    ]
+  },
+  {
+    "source": "news_google",
+    "company": "Microsoft",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-10",
+        "AvgSentiment": -0.6486
+      },
+      {
+        "Date": "2025-10-11",
+        "AvgSentiment": 0.31246666666666667
+      },
+      {
+        "Date": "2025-10-12",
+        "AvgSentiment": 0.0
+      },
+      {
+        "Date": "2025-10-13",
+        "AvgSentiment": 0.09367272727272727
+      },
+      {
+        "Date": "2025-10-14",
+        "AvgSentiment": 0.09335714285714285
+      },
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": 0.1403
+      },
+      {
+        "Date": "2025-10-16",
+        "AvgSentiment": 0.21240416666666664
+      }
+    ]
+  },
+  {
+    "source": "reddit",
+    "company": "Amazon",
+    "daily_sentiment": [
+      {
+        "Date": "2025-09-20",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-21",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-22",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-24",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-25",
+        "AvgSentiment": -1.0
+      },
+      {
+        "Date": "2025-09-26",
+        "AvgSentiment": -1.0
+      },
+      {
+        "Date": "2025-09-28",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-29",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-30",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-01",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-02",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-03",
+        "AvgSentiment": 0.0
+      },
+      {
+        "Date": "2025-10-04",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-05",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-06",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-07",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-08",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-09",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-10",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-11",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-13",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-14",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": 1.0
+      }
+    ]
+  },
+  {
+    "source": "news",
+    "company": "Amazon",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": 0.5959595959595959
+      }
+    ]
+  },
+  {
+    "source": "news_google",
+    "company": "Amazon",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-10",
+        "AvgSentiment": 0.1901
+      },
+      {
+        "Date": "2025-10-11",
+        "AvgSentiment": 0.2540833333333334
+      },
+      {
+        "Date": "2025-10-13",
+        "AvgSentiment": 0.07365555555555554
+      },
+      {
+        "Date": "2025-10-14",
+        "AvgSentiment": 0.15668333333333334
+      },
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": 0.20378275862068965
+      },
+      {
+        "Date": "2025-10-16",
+        "AvgSentiment": 0.16758421052631578
+      }
+    ]
+  },
+  {
+    "source": "news_google",
+    "company": "Alphabet (Google)",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-10",
+        "AvgSentiment": -0.10175000000000001
+      },
+      {
+        "Date": "2025-10-11",
+        "AvgSentiment": 0.2263
+      },
+      {
+        "Date": "2025-10-12",
+        "AvgSentiment": 0.31835
+      },
+      {
+        "Date": "2025-10-13",
+        "AvgSentiment": -0.05681999999999998
+      },
+      {
+        "Date": "2025-10-14",
+        "AvgSentiment": -0.128
+      },
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": 0.2182285714285714
+      },
+      {
+        "Date": "2025-10-16",
+        "AvgSentiment": 0.006230769230769228
+      }
+    ]
+  },
+  {
+    "source": "news",
+    "company": "Tesla",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": 0.40404040404040403
+      }
+    ]
+  },
+  {
+    "source": "news_google",
+    "company": "Tesla",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-10",
+        "AvgSentiment": -0.47607499999999997
+      },
+      {
+        "Date": "2025-10-11",
+        "AvgSentiment": 0.41695000000000004
+      },
+      {
+        "Date": "2025-10-13",
+        "AvgSentiment": -0.4100428571428571
+      },
+      {
+        "Date": "2025-10-14",
+        "AvgSentiment": -0.5036181818181817
+      },
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": -0.4372307692307692
+      },
+      {
+        "Date": "2025-10-16",
+        "AvgSentiment": -0.37909111111111116
+      }
+    ]
+  },
+  {
+    "source": "news_google",
+    "company": "lvmh",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-10",
+        "AvgSentiment": 0.0
+      },
+      {
+        "Date": "2025-10-12",
+        "AvgSentiment": -0.06596666666666667
+      },
+      {
+        "Date": "2025-10-13",
+        "AvgSentiment": 0.7591
+      },
+      {
+        "Date": "2025-10-14",
+        "AvgSentiment": 0.5628399999999999
+      },
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": 0.24785625
+      },
+      {
+        "Date": "2025-10-16",
+        "AvgSentiment": 0.2613857142857143
+      }
+    ]
+  },
+  {
+    "source": "news",
+    "company": "totalenergies",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-03",
+        "AvgSentiment": 0.3333333333333333
+      },
+      {
+        "Date": "2025-10-04",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-05",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-06",
+        "AvgSentiment": 0.6
+      },
+      {
+        "Date": "2025-10-07",
+        "AvgSentiment": -0.5
+      },
+      {
+        "Date": "2025-10-08",
+        "AvgSentiment": 0.9
+      },
+      {
+        "Date": "2025-10-09",
+        "AvgSentiment": 0.5555555555555556
+      },
+      {
+        "Date": "2025-10-10",
+        "AvgSentiment": -0.14285714285714285
+      },
+      {
+        "Date": "2025-10-13",
+        "AvgSentiment": 0.6363636363636364
+      },
+      {
+        "Date": "2025-10-14",
+        "AvgSentiment": -0.1
+      },
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": -0.15384615384615385
+      }
+    ]
+  },
+  {
+    "source": "news_google",
+    "company": "totalenergies",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-10",
+        "AvgSentiment": 0.0
+      },
+      {
+        "Date": "2025-10-12",
+        "AvgSentiment": 0.32985
+      },
+      {
+        "Date": "2025-10-13",
+        "AvgSentiment": 0.053075
+      },
+      {
+        "Date": "2025-10-14",
+        "AvgSentiment": 0.0
+      },
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": 0.0843
+      },
+      {
+        "Date": "2025-10-16",
+        "AvgSentiment": 0.13695
+      }
+    ]
+  },
+  {
+    "source": "news",
+    "company": "sanofi",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-01",
+        "AvgSentiment": 0.7272727272727273
+      },
+      {
+        "Date": "2025-10-02",
+        "AvgSentiment": 0.4
+      },
+      {
+        "Date": "2025-10-03",
+        "AvgSentiment": 0.0
+      },
+      {
+        "Date": "2025-10-04",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-05",
+        "AvgSentiment": 0.5
+      },
+      {
+        "Date": "2025-10-06",
+        "AvgSentiment": 0.5555555555555556
+      },
+      {
+        "Date": "2025-10-07",
+        "AvgSentiment": 0.38461538461538464
+      },
+      {
+        "Date": "2025-10-08",
+        "AvgSentiment": 0.21428571428571427
+      },
+      {
+        "Date": "2025-10-09",
+        "AvgSentiment": 0.2222222222222222
+      },
+      {
+        "Date": "2025-10-10",
+        "AvgSentiment": 0.4
+      },
+      {
+        "Date": "2025-10-12",
+        "AvgSentiment": 0.0
+      },
+      {
+        "Date": "2025-10-13",
+        "AvgSentiment": 0.5714285714285714
+      },
+      {
+        "Date": "2025-10-14",
+        "AvgSentiment": 0.16666666666666666
+      },
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": 0.6
+      }
+    ]
+  },
+  {
+    "source": "news_google",
+    "company": "sanofi",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-10",
+        "AvgSentiment": 0.5574
+      },
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": 0.0
+      },
+      {
+        "Date": "2025-10-16",
+        "AvgSentiment": 0.30663333333333337
+      }
+    ]
+  },
+  {
+    "source": "news",
+    "company": "airbus",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-09",
+        "AvgSentiment": 0.45454545454545453
+      },
+      {
+        "Date": "2025-10-10",
+        "AvgSentiment": 0.1875
+      },
+      {
+        "Date": "2025-10-11",
+        "AvgSentiment": 0.6
+      },
+      {
+        "Date": "2025-10-12",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-13",
+        "AvgSentiment": 0.047619047619047616
+      },
+      {
+        "Date": "2025-10-14",
+        "AvgSentiment": 0.47058823529411764
+      },
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": 0.06666666666666667
+      }
+    ]
+  },
+  {
+    "source": "news_google",
+    "company": "airbus",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-13",
+        "AvgSentiment": 0.1591
+      },
+      {
+        "Date": "2025-10-14",
+        "AvgSentiment": 0.028425000000000006
+      },
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": 0.0
+      },
+      {
+        "Date": "2025-10-16",
+        "AvgSentiment": 0.37025
+      }
+    ]
+  },
+  {
+    "source": "news",
+    "company": "schneider electric",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": 0.5268817204301075
+      }
+    ]
+  },
+  {
+    "source": "news_google",
+    "company": "schneider electric",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-12",
+        "AvgSentiment": 0.5267
+      }
+    ]
+  },
+  {
+    "source": "reddit",
+    "company": "apple",
+    "daily_sentiment": [
+      {
+        "Date": "2025-09-18",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-19",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-20",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-22",
+        "AvgSentiment": 0.6666666666666666
+      },
+      {
+        "Date": "2025-09-23",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-24",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-25",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-26",
+        "AvgSentiment": -0.3333333333333333
+      },
+      {
+        "Date": "2025-09-27",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-29",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-01",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-02",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-04",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-06",
+        "AvgSentiment": -1.0
+      },
+      {
+        "Date": "2025-10-07",
+        "AvgSentiment": -1.0
+      },
+      {
+        "Date": "2025-10-08",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-09",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-10",
+        "AvgSentiment": 0.0
+      },
+      {
+        "Date": "2025-10-11",
+        "AvgSentiment": -1.0
+      },
+      {
+        "Date": "2025-10-13",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-14",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": 0.3333333333333333
+      },
+      {
+        "Date": "2025-10-16",
+        "AvgSentiment": 1.0
+      }
+    ]
+  },
+  {
+    "source": "news",
+    "company": "apple",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": 0.5656565656565656
+      }
+    ]
+  },
+  {
+    "source": "news_google",
+    "company": "apple",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-10",
+        "AvgSentiment": -0.5423
+      },
+      {
+        "Date": "2025-10-12",
+        "AvgSentiment": -0.503525
+      },
+      {
+        "Date": "2025-10-13",
+        "AvgSentiment": -0.3568166666666666
+      },
+      {
+        "Date": "2025-10-14",
+        "AvgSentiment": -0.46299999999999997
+      },
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": -0.3686666666666667
+      },
+      {
+        "Date": "2025-10-16",
+        "AvgSentiment": -0.379562962962963
+      }
+    ]
+  },
+  {
+    "source": "reddit",
+    "company": "microsoft",
+    "daily_sentiment": [
+      {
+        "Date": "2025-09-18",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-19",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-20",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-22",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-23",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-24",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-25",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-26",
+        "AvgSentiment": 0.0
+      },
+      {
+        "Date": "2025-09-28",
+        "AvgSentiment": 0.0
+      },
+      {
+        "Date": "2025-09-29",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-30",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-01",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-02",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-04",
+        "AvgSentiment": 0.5
+      },
+      {
+        "Date": "2025-10-05",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-06",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-07",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-08",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-09",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-14",
+        "AvgSentiment": -1.0
+      },
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": 0.6
+      },
+      {
+        "Date": "2025-10-16",
+        "AvgSentiment": 1.0
+      }
+    ]
+  },
+  {
+    "source": "news",
+    "company": "microsoft",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": 0.5306122448979592
+      }
+    ]
+  },
+  {
+    "source": "news_google",
+    "company": "microsoft",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-10",
+        "AvgSentiment": -0.6486
+      },
+      {
+        "Date": "2025-10-11",
+        "AvgSentiment": 0.31246666666666667
+      },
+      {
+        "Date": "2025-10-12",
+        "AvgSentiment": 0.0
+      },
+      {
+        "Date": "2025-10-13",
+        "AvgSentiment": 0.09367272727272727
+      },
+      {
+        "Date": "2025-10-14",
+        "AvgSentiment": 0.09335714285714285
+      },
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": 0.1403
+      },
+      {
+        "Date": "2025-10-16",
+        "AvgSentiment": 0.21240416666666664
+      }
+    ]
+  },
+  {
+    "source": "reddit",
+    "company": "amazon",
+    "daily_sentiment": [
+      {
+        "Date": "2025-09-20",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-21",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-22",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-24",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-25",
+        "AvgSentiment": -1.0
+      },
+      {
+        "Date": "2025-09-26",
+        "AvgSentiment": -1.0
+      },
+      {
+        "Date": "2025-09-28",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-29",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-09-30",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-01",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-02",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-03",
+        "AvgSentiment": 0.0
+      },
+      {
+        "Date": "2025-10-04",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-05",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-06",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-07",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-08",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-09",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-10",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-11",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-13",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-14",
+        "AvgSentiment": 1.0
+      },
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": 1.0
+      }
+    ]
+  },
+  {
+    "source": "news",
+    "company": "amazon",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": 0.5959595959595959
+      }
+    ]
+  },
+  {
+    "source": "news_google",
+    "company": "amazon",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-10",
+        "AvgSentiment": 0.1901
+      },
+      {
+        "Date": "2025-10-11",
+        "AvgSentiment": 0.2540833333333334
+      },
+      {
+        "Date": "2025-10-13",
+        "AvgSentiment": 0.07365555555555554
+      },
+      {
+        "Date": "2025-10-14",
+        "AvgSentiment": 0.15668333333333334
+      },
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": 0.20378275862068965
+      },
+      {
+        "Date": "2025-10-16",
+        "AvgSentiment": 0.16758421052631578
+      }
+    ]
+  },
+  {
+    "source": "news_google",
+    "company": "alphabet (google)",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-10",
+        "AvgSentiment": -0.10175000000000001
+      },
+      {
+        "Date": "2025-10-11",
+        "AvgSentiment": 0.2263
+      },
+      {
+        "Date": "2025-10-12",
+        "AvgSentiment": 0.31835
+      },
+      {
+        "Date": "2025-10-13",
+        "AvgSentiment": -0.05681999999999998
+      },
+      {
+        "Date": "2025-10-14",
+        "AvgSentiment": -0.128
+      },
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": 0.2182285714285714
+      },
+      {
+        "Date": "2025-10-16",
+        "AvgSentiment": 0.006230769230769228
+      }
+    ]
+  },
+  {
+    "source": "news",
+    "company": "tesla",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": 0.40404040404040403
+      }
+    ]
+  },
+  {
+    "source": "news_google",
+    "company": "tesla",
+    "daily_sentiment": [
+      {
+        "Date": "2025-10-10",
+        "AvgSentiment": -0.47607499999999997
+      },
+      {
+        "Date": "2025-10-11",
+        "AvgSentiment": 0.41695000000000004
+      },
+      {
+        "Date": "2025-10-13",
+        "AvgSentiment": -0.4100428571428571
+      },
+      {
+        "Date": "2025-10-14",
+        "AvgSentiment": -0.5036181818181817
+      },
+      {
+        "Date": "2025-10-15",
+        "AvgSentiment": -0.4372307692307692
+      },
+      {
+        "Date": "2025-10-16",
+        "AvgSentiment": -0.37909111111111116
+      }
+    ]
+  }
+]

@@ -1,0 +1,240 @@
+{
+  "Apple": {
+    "global": {
+      "overall_corr": 0.12725439982629666,
+      "corr_7d": 0.2770510011489466,
+      "corr_15d": 0.17128689241965875,
+      "corr_30d": NaN
+    },
+    "by_source": {
+      "google": {
+        "overall_corr": 0.402537554171769,
+        "corr_7d": 0.7073051769208714,
+        "corr_15d": 0.3791511589369576,
+        "corr_30d": NaN
+      },
+      "reddit": {
+        "overall_corr": 0.26781341958192717,
+        "corr_7d": 0.6477470297982943,
+        "corr_15d": 0.3210406057353651,
+        "corr_30d": NaN
+      },
+      "news media": {
+        "overall_corr": NaN,
+        "corr_7d": NaN,
+        "corr_15d": NaN,
+        "corr_30d": NaN
+      }
+    }
+  },
+  "Microsoft": {
+    "global": {
+      "overall_corr": -0.3366562061026366,
+      "corr_7d": -0.45652858198909146,
+      "corr_15d": -0.3773066551159837,
+      "corr_30d": NaN
+    },
+    "by_source": {
+      "google": {
+        "overall_corr": 0.1547270485704698,
+        "corr_7d": -0.7567064409383287,
+        "corr_15d": 0.30315548502754114,
+        "corr_30d": NaN
+      },
+      "reddit": {
+        "overall_corr": -0.08569519974501028,
+        "corr_7d": 0.15033928975877578,
+        "corr_15d": -0.10426886278759759,
+        "corr_30d": NaN
+      },
+      "news media": {
+        "overall_corr": NaN,
+        "corr_7d": NaN,
+        "corr_15d": NaN,
+        "corr_30d": NaN
+      }
+    }
+  },
+  "Amazon": {
+    "global": {
+      "overall_corr": 0.007201478873552399,
+      "corr_7d": -0.14501615975073795,
+      "corr_15d": -0.024003259173634404,
+      "corr_30d": NaN
+    },
+    "by_source": {
+      "google": {
+        "overall_corr": -0.23126403205713478,
+        "corr_7d": -0.23293199210535054,
+        "corr_15d": NaN,
+        "corr_30d": NaN
+      },
+      "reddit": {
+        "overall_corr": -0.050842066314300646,
+        "corr_7d": -0.21057738242437224,
+        "corr_15d": -0.009860306163180076,
+        "corr_30d": NaN
+      },
+      "news media": {
+        "overall_corr": NaN,
+        "corr_7d": NaN,
+        "corr_15d": NaN,
+        "corr_30d": NaN
+      }
+    }
+  },
+  "Alphabet (Google)": {
+    "global": {
+      "overall_corr": -0.3227082518843121,
+      "corr_7d": -0.32407545804242227,
+      "corr_15d": -0.29323440735217626,
+      "corr_30d": NaN
+    },
+    "by_source": {
+      "google": {
+        "overall_corr": -0.06529874122526484,
+        "corr_7d": -0.03347033130931432,
+        "corr_15d": -0.035005275452589094,
+        "corr_30d": NaN
+      },
+      "reddit": {
+        "overall_corr": -0.45319712389203837,
+        "corr_7d": -0.46617528432254973,
+        "corr_15d": NaN,
+        "corr_30d": NaN
+      }
+    }
+  },
+  "Tesla": {
+    "global": {
+      "overall_corr": 0.10532562648437938,
+      "corr_7d": 0.12374996948133156,
+      "corr_15d": 0.08798768647121795,
+      "corr_30d": NaN
+    },
+    "by_source": {
+      "google": {
+        "overall_corr": 0.17642959919624876,
+        "corr_7d": 0.03670284558265427,
+        "corr_15d": 0.1764295991962489,
+        "corr_30d": NaN
+      },
+      "reddit": {
+        "overall_corr": -0.05074635395155598,
+        "corr_7d": -0.6426649233106095,
+        "corr_15d": -0.05074635395155599,
+        "corr_30d": NaN
+      },
+      "news media": {
+        "overall_corr": NaN,
+        "corr_7d": NaN,
+        "corr_15d": NaN,
+        "corr_30d": NaN
+      }
+    }
+  },
+  "LVMH": {
+    "global": {
+      "overall_corr": 0.16429211611930084,
+      "corr_7d": 0.049068285281489155,
+      "corr_15d": NaN,
+      "corr_30d": NaN
+    },
+    "by_source": {
+      "google": {
+        "overall_corr": 0.16429211611930084,
+        "corr_7d": 0.049068285281489155,
+        "corr_15d": NaN,
+        "corr_30d": NaN
+      }
+    }
+  },
+  "TotalEnergies": {
+    "global": {
+      "overall_corr": 0.0274649821073927,
+      "corr_7d": -0.1577764120221887,
+      "corr_15d": 0.2162719253724943,
+      "corr_30d": NaN
+    },
+    "by_source": {
+      "google": {
+        "overall_corr": -0.04832930131569579,
+        "corr_7d": 0.002990882980241976,
+        "corr_15d": 0.034463704748980556,
+        "corr_30d": NaN
+      },
+      "news media": {
+        "overall_corr": 0.46863829878684987,
+        "corr_7d": 0.4680828331090963,
+        "corr_15d": NaN,
+        "corr_30d": NaN
+      }
+    }
+  },
+  "Sanofi": {
+    "global": {
+      "overall_corr": 0.2695652421977728,
+      "corr_7d": -0.6029648470221054,
+      "corr_15d": 0.08002403231076989,
+      "corr_30d": NaN
+    },
+    "by_source": {
+      "google": {
+        "overall_corr": 0.09113969391507089,
+        "corr_7d": -0.1991048240937334,
+        "corr_15d": NaN,
+        "corr_30d": NaN
+      },
+      "news media": {
+        "overall_corr": 0.1134115614603152,
+        "corr_7d": 0.5820316531391351,
+        "corr_15d": NaN,
+        "corr_30d": NaN
+      }
+    }
+  },
+  "Airbus": {
+    "global": {
+      "overall_corr": -0.5605477767710031,
+      "corr_7d": -0.7679839802663172,
+      "corr_15d": -0.5605477767710032,
+      "corr_30d": NaN
+    },
+    "by_source": {
+      "google": {
+        "overall_corr": -0.13349595276429807,
+        "corr_7d": 0.18762102682064838,
+        "corr_15d": NaN,
+        "corr_30d": NaN
+      },
+      "news media": {
+        "overall_corr": -0.7377630151422114,
+        "corr_7d": NaN,
+        "corr_15d": NaN,
+        "corr_30d": NaN
+      }
+    }
+  },
+  "Schneider Electric": {
+    "global": {
+      "overall_corr": 0.5392867586874548,
+      "corr_7d": NaN,
+      "corr_15d": NaN,
+      "corr_30d": NaN
+    },
+    "by_source": {
+      "google": {
+        "overall_corr": 0.9220861874097181,
+        "corr_7d": NaN,
+        "corr_15d": NaN,
+        "corr_30d": NaN
+      },
+      "news media": {
+        "overall_corr": NaN,
+        "corr_7d": NaN,
+        "corr_15d": NaN,
+        "corr_30d": NaN
+      }
+    }
+  }
+}
